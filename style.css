@@ -1,0 +1,49 @@
+/* CSS file  [styles.css] */
+
+* {
+    padding: .3%;
+}
+ 
+.livingroom {
+    text-align: center;
+    margin-top: 2%;
+}
+.bedroom {
+    text-align: center;
+    margin-top: 2%;
+}
+.kitchen{
+    text-align: center;
+    margin-top: 2%;
+}
+.kidsroom{
+    text-align: center;
+    margin-top: 2%;
+}
+.cafe{
+    text-align: center;
+    margin-top: 2%;
+}
+.sec1{
+    background-color: #f4f0D8;
+}
+.sec2{
+    background-color: #f4f0D8;
+}
+.sec3{
+    background-color: #f4f0D8;
+}
+.sec4{
+    background-color: #f4f0D8;
+}
+.sec5{
+    background-color: #f4f0D8;;
+}
+body{
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+}
+           
+
+
+
